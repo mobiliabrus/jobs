@@ -10,3 +10,33 @@
 - [直聘](https://www.zhipin.com/web/geek/job?query=%E5%89%8D%E7%AB%AF&city=101040100&jobType=1901)
 - [拉钩](https://www.lagou.com/wn/jobs?pn=1&fromSearch=true&kd=%E5%89%8D%E7%AB%AF&city=%E9%87%8D%E5%BA%86)
 - [前程](https://we.51job.com/pc/search?jobArea=060000&keyword=%E5%89%8D%E7%AB%AF&searchType=2)
+
+
+### Introduce Yourself
+
+Introduce yourself in three thirty second.
+
+##### Who You Are
+
+*For interview.*<br/>
+*Experience including the title of your current role and your company.*
+
+Good morning/ afternoon, thank you for the chance to introduce myself.<br/>
+My name is `_______________`. I'm a front-end engineer, and I've worked in `_______________` over `5` years.
+
+##### Achievements
+
+*two to three points that make you stand out based on the role you have applied for.*
+
+In this company, we developed `a big data product for social security`<br/>
+I was responsible to `CI/CD in frontend projects` and `Node.js platforms`.<br/>
+I got promoted because of the achievements on `development quality and efficiency`.<br/>
+I also took on the role of `PM`, leading in `improving the product experience`.
+
+##### Why You Are Here
+
+*use one to two sentences to explain why you are the right fit for them.*
+
+This opportunity caught my attention because `_______________`.
+Due to my background and achievements in successfully improving technology and product experience,
+I believe. I'll be able to bring great value to your business.
